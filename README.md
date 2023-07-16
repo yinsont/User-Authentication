@@ -1,5 +1,6 @@
 User Authentication Template
 
+Back-End
 1. Enter Shell
 2. cd into server
 3. flask db init
